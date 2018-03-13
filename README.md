@@ -5,3 +5,4 @@
 - [十分钟pandas入门教程中文](https://ericfu.me/10-minutes-to-pandas/) (推荐）
 - [使用gitbook写的pandas教程](https://github.com/wizardforcel/pandas-official-tut-zh), 打开gitbook太慢了，推荐配合[使用docker本地搭建gitbook](https://github.com/IanSmith123/gitbook-docker)使用更佳（我写的hhhh）
 - [使用jupyter写的pandas教程](https://github.com/hangsz/pandas-tutorial)
+- [cookbook](https://github.com/jvns/pandas-cookbook)
